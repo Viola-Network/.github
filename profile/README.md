@@ -1,6 +1,5 @@
 ![Violalogowithtext](https://github.com/Viola-Network/.github/assets/153359889/2b3837f5-4081-4e81-856f-1abafe8d37b8)
 
-```
 ## About Us
 
 Viola Network is an organization dedicated to supporting developers and open-source projects. We believe in the power of community and collaboration to drive innovation in the tech industry.
@@ -19,5 +18,5 @@ Viola Network is an organization dedicated to supporting developers and open-sou
 ## Contact Us
 
 Need support or have questions? Feel free to reach out to us at [support@violanetwork.net](mailto:support@violanetwork.net).
-```
+
 
