@@ -7,7 +7,7 @@ Viola Network is an organization dedicated to supporting developers and open-sou
 ### What We Do
 
 - **Open Source Contributions**: We actively contribute to open-source projects and provide resources to developers to encourage collaboration and knowledge sharing.
-- **Free Hosting Support**: We offer free hosting services for developers who may not have the means to host their own servers or websites. Our goal is to support developers until they can sustain themselves financially.
+- **Resource Support**: We offer free hosting services for developers who may not have the means to host their own servers or websites. Our goal is to support developers until they can sustain themselves financially.
 - **Project Support**: We provide assistance and guidance to developers who are struggling with their projects, whether it's technical support or financial assistance.
 
 ## Projects
